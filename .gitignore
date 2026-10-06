@@ -1,4 +1,4 @@
-.DS_store
+.DS_Store
 __pycache__/
 *.pyc
 *.pyo
@@ -9,3 +9,12 @@ __pycache__/
 *.egg-info
 dist/
 build/
+
+# datasets and model weights — too big for git
+Assignment3/FL/
+Assignment3/BF/
+*.joblib
+*.pth
+*.pt
+*.ckpt
+*.h5
